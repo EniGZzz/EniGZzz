@@ -1,16 +1,16 @@
-### Hi there 👋
+# Salve Salve!
+My name is Pedro Fachetti Carvalho. You are currently in my test site where I try all types of things.
 
-<!--
-**EniGZzz/EniGZzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project I am currently working on
+- GUI Java Project 
 
-Here are some ideas to get you started:
+## Where you can find me
+<ul>
+  <li> 
+    <a href= "https://www.linkedin.com/in/pedro-fachetti-carvalho-70593415a/">Linkedln</a> <img alt="LinkedlnIcon" src"https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> 
+  </li>
+  
+  <li>
+    GitHub
+  </li>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
