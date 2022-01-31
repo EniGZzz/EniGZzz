@@ -2,9 +2,13 @@
 
 My name is Pedro Fachetti Carvalho. You are currently in my test site where I try all types of things.
 
-### Currently working on
+### Main Projects
 - UCF GPA Calculator - Discord Bot
 - Personal Inventory - GUI JavaFX
+
+### Currently Working
+- Simple first time full-stack application for Software Engineering course
+- EDA project for Machine Learning course 
 
 
 
