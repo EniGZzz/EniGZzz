@@ -18,6 +18,7 @@ My name is Pedro Fachetti Carvalho. You are currently in my test site where I tr
     <img align="center" alt="pythonIcon" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="cIcon" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="c++Icon" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="center" alt="MySQL" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="HTMLIcon" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     <img align="center" alt="HTMLIcon" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSSIcon" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
